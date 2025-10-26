@@ -85,4 +85,5 @@ midpoint_circle(100, 100, 40)
 midpoint_ellipse(60, 30, 200, 200)
 plt.gca().set_aspect('equal', adjustable='box')
 plt.grid(True)
-plt.show() 
+plt.show() 
+
